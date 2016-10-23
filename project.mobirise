@@ -116,7 +116,7 @@
             "showArrow": false
           },
           "title": "Giovanni Bruno<br>",
-          "text": "robotics. photography.",
+          "text": "robotics.<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">About me</a> "
         },
         {
@@ -131,8 +131,8 @@
           },
           "_anchor": "social-buttons2-s",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -276,6 +276,44 @@
           "title": "Robotics",
           "text": "Here you can find all my projects.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"linefollower_index.html\" data-toolbar=\"-mbrBtnMove\">LINE FOLLOWER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">OLD PROJECTS</a>"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">back home</a>"
         }
       ]
     },
@@ -540,7 +578,7 @@
           },
           "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"robotics_index.html\" data-toolbar=\"-mbrBtnMove\">BACK to ROBOTICS</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"robotics_index.html\" data-toolbar=\"-mbrBtnMove\">back to ROBOTICS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">back home</a>"
         },
         {
           "_tags": [
@@ -1163,7 +1201,7 @@
           },
           "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"linefollower_index.html\" data-toolbar=\"-mbrBtnMove\">back to Line Follower</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"linefollower_index.html\" data-toolbar=\"-mbrBtnMove\">back to Line Follower</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"robotics_index.html\" data-toolbar=\"-mbrBtnMove\">back to ROBOTICS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">back home<br></a>"
         }
       ]
     },
@@ -1336,7 +1374,7 @@
           },
           "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;back to home</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;back home</a>"
         }
       ]
     },
@@ -1793,7 +1831,7 @@
           },
           "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"linefollower_index.html\" data-toolbar=\"-mbrBtnMove\">back to Line Follower</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"linefollower_index.html\" data-toolbar=\"-mbrBtnMove\">back to Line Follower</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"robotics_index.html\" data-toolbar=\"-mbrBtnMove\">back to Robotics</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">back home</a>"
         }
       ]
     },
@@ -1903,7 +1941,7 @@
             "showArrow": false
           },
           "title": "Old Projects",
-          "text": "Uncategorized designs, from my high school works.",
+          "text": "Uncategorized robotics designs, from my high school works.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"robotics_old.html#msg-box4-2\" data-toolbar=\"-mbrBtnMove\">DRUMMYBOT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MARK3</a>"
         },
         {
@@ -1967,8 +2005,8 @@
           "headerAlign": "left",
           "title": "DRUMMYBOT",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Drummybot is an antropomorphic robot that play drums.</p><p>You can write a music score, Drummybot reads it listen your music time and play on its drums.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "text": "<p>Drummybot is an antropomorphic robot that play drums.</p><p>You can write a music score, DrumMyBot reads it listen your music time and play on its drums.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"drummybot.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -2031,7 +2069,7 @@
           "headerAlign": "left",
           "title": "MARK3",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>This is my first robot design ever.</p><p>I used only logic port, Flip-Flops and Johnson counter.</p>",
+          "text": "<p>This is my first robot design ever.</p><p>I used only logic port, Flip-Flops and Johnson counter to build it.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -2070,7 +2108,7 @@
           },
           "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"robotics_index.html\" data-toolbar=\"-mbrBtnMove\">back to robotics</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"robotics_index.html\" data-toolbar=\"-mbrBtnMove\">back to Robotics</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">back home</a>"
         }
       ]
     },
@@ -2165,7 +2203,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<p>Contacts:</p><br><p><br><br>twitter: @br1johnny</p><br><p><br>mail:&nbsp; &nbsp; giovannididio.bruno@gmail.com</p><p><br></p><br><p><br></p><br><p><br></p><br><p><br></p><p><br></p><br><p><br></p><br><p><br></p><br><p><br></p><br><p><br></p><br><p><br></p>"
+          "text": "<p>Contacts:</p><br><p><br><br>twitter: @br1johnny</p><br><p><br>mail:&nbsp; &nbsp; giovannididio.bruno@gmail.com</p><p><br></p><p><br></p><p><br></p><br><p><br></p><br><p><br></p>"
         },
         {
           "_inherit": "msg-box1",
@@ -2183,8 +2221,8 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-a",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2203,7 +2241,7 @@
           },
           "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">back to home</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">back home</a>"
         },
         {
           "_tags": [
@@ -2211,6 +2249,86 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+        }
+      ]
+    },
+    "drummybot.html": {
+      "settings": {
+        "title": "DrumMyBot"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#c1c1c1",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/clean-166x128-69.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "GBr1_logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Giovanni Bruno's Website</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"robotics_index.html\">ROBOTICS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
