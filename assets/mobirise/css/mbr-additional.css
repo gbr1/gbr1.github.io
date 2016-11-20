@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 #menu-0 .mbr-brand__name {
   font-size: 16px;
@@ -156,6 +157,15 @@
 }
 #content5-l .mbr-article {
   color: #fff;
+}
+#msg-box1-y .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-y .mbr-article {
+  color: #fff;
+}
+#content4-w .mbr-section__col .mbr-header__text {
+  text-align: left;
 }
 #msg-box2-15 .mbr-header .mbr-header__text {
   color: #252525;
@@ -336,6 +346,7 @@
   color: #fff;
 }
 
+
 #menu-d .mbr-brand__name {
   font-size: 16px;
 }
@@ -356,6 +367,7 @@
   text-align: center;
   color: #ffffff;
   font-size: 80px;
+  font-family: 'Roboto', sans-serif;
 }
 #content4-l P {
   text-align: left;
@@ -412,5 +424,30 @@
   color: #fff;
 }
 #msg-box1-n .mbr-article {
+  color: #fff;
+}
+
+#menu-r .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-r.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-r .mbr-navbar__hamburger {
+  color: #c1c1c1;
+}
+#menu-r .mbr-brand__name a {
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-t P {
+  color: #ffffff;
+}
+#slider-t H1 {
+  color: #ffffff;
+}
+#msg-box1-u .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-u .mbr-article {
   color: #fff;
 }
