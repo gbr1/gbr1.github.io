@@ -451,3 +451,53 @@
 #msg-box1-u .mbr-article {
   color: #fff;
 }
+
+#menu-z .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-z.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-z .mbr-navbar__hamburger {
+  color: #c1c1c1;
+}
+#menu-z .mbr-brand__name a {
+  font-family: 'Montserrat', sans-serif;
+}
+#header1-12 P {
+  color: #ffffff;
+  text-align: center;
+}
+#header1-12 H1 {
+  color: #eb6b56;
+  text-align: center;
+  font-size: 100px;
+}
+#msg-box1-14 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-14 .mbr-article {
+  color: #fff;
+}
+#header3-19 H3 {
+  text-align: center;
+  font-size: 36px;
+}
+#msg-box1-1c .mbr-header .mbr-header__text {
+  color: #000000;
+}
+#msg-box1-1c .mbr-article {
+  color: #000000;
+}
+#msg-box1-1a .mbr-header .mbr-header__text {
+  color: #000000;
+}
+#msg-box1-1a .mbr-article {
+  color: #000000;
+}
+#msg-box1-1b .mbr-header .mbr-header__text {
+  color: #000000;
+}
+#msg-box1-1b .mbr-article {
+  color: #000000;
+}
