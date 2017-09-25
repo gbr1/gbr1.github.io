@@ -4052,7 +4052,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.github.com/erwhi_project\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go to the Repository</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/gbr1/erwhi\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go to the Repository</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1f"
         },
@@ -4085,10 +4085,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-4785-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-4787-1400x933.jpg",
               "link": "",
-              "alt": "ST IMU node",
-              "title": "ST IMU node"
+              "alt": "front view",
+              "title": "front view"
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -4153,10 +4153,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-4785-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-4472-1400x933.jpg",
               "link": "",
-              "alt": "ST IMU node",
-              "title": "ST IMU node"
+              "alt": "uuBridge",
+              "title": "uuBridge"
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -4221,7 +4221,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-4785-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-4476-1400x933.jpg",
               "link": "",
               "alt": "ST IMU node",
               "title": "ST IMU node"
