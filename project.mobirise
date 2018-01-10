@@ -4631,7 +4631,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Geduino Foundation (aka Gesuino)",
-          "text": "Geduino is a project by Alessandro Francescon.<br>Alessandro donate a broken lidar to be mounted and tested on ERWHI.",
+          "text": "Geduino is a project by Alessandro Francescon.<br>Alessandro donated a broken lidar to be mounted and tested on ERWHI.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.geduino.org/site/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
           "_tags": [
             "Theme"
