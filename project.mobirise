@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "erwhi2.html",
+    "currentPage": "erwhi_project.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 101,
     "versionPublish": "4.5.4",
@@ -4140,7 +4140,7 @@
           },
           "title2": "ERWHI (mk2) (q2-4 2017)",
           "caption2": "- Odroid XU4<br>- Intel Realsense R200<br>- uNav motor controller<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"erwhi2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -4160,7 +4160,7 @@
           },
           "title3": "ERWHIxUP (mk2.1) (q1 2018)",
           "caption3": "- UP squared Pentium<br>- Intel Realsense ZR300<br>- uNav motor controller<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"erwhiup.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -4180,7 +4180,7 @@
           },
           "title4": "no codename yet (mk3) (...)",
           "caption4": "- UP squared Pentium<br>- Intel Realsense D435<br>- AI-core (Movidius)<br>- new motor controller",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"erwhi_project.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
