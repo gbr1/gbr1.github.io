@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "erwhi_project.html",
+    "currentPage": "erwhi2.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 68,
+    "uniqCompNum": 101,
     "versionPublish": "4.5.4",
     "name": "GBr1",
     "theme": {
@@ -164,13 +164,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         }
       ]
     },
     "robotics_index.html": {
       "settings": {
-        "title": "Robotics"
+        "title": "Robotics",
+        "order": 8
       },
       "components": [
         {
@@ -244,7 +245,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -320,7 +321,8 @@
     },
     "linefollower_index.html": {
       "settings": {
-        "title": "Line Follower"
+        "title": "Line Follower",
+        "order": 4
       },
       "components": [
         {
@@ -601,13 +603,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         }
       ]
     },
     "mb2.html": {
       "settings": {
-        "title": "The Magic Bombo mark 2"
+        "title": "The Magic Bombo mark 2",
+        "order": 5
       },
       "components": [
         {
@@ -681,7 +684,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -1213,7 +1216,8 @@
     },
     "about.html": {
       "settings": {
-        "title": "About"
+        "title": "About",
+        "order": 6
       },
       "components": [
         {
@@ -1287,7 +1291,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         },
         {
           "_inherit": "msg-box3",
@@ -1582,7 +1586,8 @@
     },
     "mb3.html": {
       "settings": {
-        "title": "The Magic MAGIC BOMBO proto evo"
+        "title": "The Magic MAGIC BOMBO proto evo",
+        "order": 7
       },
       "components": [
         {
@@ -1656,7 +1661,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -2040,7 +2045,8 @@
     },
     "robotics_old.html": {
       "settings": {
-        "title": "Old Projects"
+        "title": "Old Projects",
+        "order": 14
       },
       "components": [
         {
@@ -2114,7 +2120,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         },
         {
           "_inherit": "header1",
@@ -2319,7 +2325,8 @@
     },
     "contacts.html": {
       "settings": {
-        "title": "Contact"
+        "title": "Contact",
+        "order": 9
       },
       "components": [
         {
@@ -2466,13 +2473,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         }
       ]
     },
     "drummybot.html": {
       "settings": {
-        "title": "DrumMyBot"
+        "title": "DrumMyBot",
+        "order": 10
       },
       "components": [
         {
@@ -2546,7 +2554,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         },
         {
           "_inherit": "msg-box3",
@@ -2664,7 +2672,8 @@
     },
     "projects_index.html": {
       "settings": {
-        "title": "Projects"
+        "title": "Projects",
+        "order": 11
       },
       "components": [
         {
@@ -2894,13 +2903,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         }
       ]
     },
     "alfred_project.html": {
       "settings": {
-        "title": "ALFRED Project"
+        "title": "ALFRED Project",
+        "order": 12
       },
       "components": [
         {
@@ -3703,14 +3713,15 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         }
       ]
     },
     "activities_index.html": {
       "settings": {
         "title": "Activities",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 13
       },
       "components": [
         {
@@ -3883,14 +3894,15 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
         }
       ]
     },
     "erwhi_project.html": {
       "settings": {
-        "title": "ERWHI",
-        "meta_descr": "ERWHI robotics"
+        "title": "ERWHI project",
+        "meta_descr": "ERWHI robots index",
+        "order": 2
       },
       "components": [
         {
@@ -3958,20 +3970,20 @@
             "showText": true,
             "showButtons": false,
             "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202017-06-27%20at%2016-2000x2157.png",
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-2018-02-13-20-59-24-1280x720.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/uNOOAU3VIps?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://youtu.be/uNOOAU3VIps",
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": "0.5"
           },
@@ -3984,7 +3996,7 @@
               "text-align": "center"
             },
             "H1": {
-              "color": "#eb6b56",
+              "color": "#ffffff",
               "text-align": "center",
               "font-size": "100px"
             }
@@ -3996,7 +4008,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": "28",
             "paddingTop": "1",
@@ -4037,7 +4049,7 @@
             }
           },
           "title": "About ERWHI",
-          "text": "<p>ERWHI is an open source small SLAM robot. &nbsp;It integrates some human interaction features and machine learning capabilities.</p><p><br>It works on ROS on an Odroid XU4 and Intel Realsense R200 as vision sensor.<br>Motors are controlled by uNav and uuBridge (a custome uBridge).</p><p><br></p><p>To achieve a perfect dynamics study, a special node was created using STM32-Nucleo and MPU9250.</p>",
+          "text": "<p>ERWHI is an open source small SLAM robot. &nbsp;It integrates some human interaction features and machine learning capabilities.</p><p><br></p><p>Actually there are 4 version.<br><br>The first one is a really simple robot.</p><p>Starting from version 2, often called ERWHI, robots are designed to be highly integrated with ROS.<br>Depth vision system is also included.<br>Robots are fully autonomous.</p>",
           "_tags": [
             "Theme"
           ],
@@ -4059,16 +4071,17 @@
           "_anchor": "msg-box4-1f"
         },
         {
-          "_inherit": "msg-box5",
+          "_inherit": "features1",
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
             "showButtons": true,
-            "inverse": true,
-            "imageSize": "28",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -4082,359 +4095,153 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "media": {
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "ERWHI generation timeline",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
             "image": {
               "active": true,
+              "src": "images/bootstrap.png",
               "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-4787-1400x933.jpg",
-              "link": "",
-              "alt": "front view",
-              "title": "front view"
+              "width": 600
             },
             "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-features1",
               "link": "",
               "size": 0
             }
           },
-          "title": "Motors Control",
-          "text": "Motors control is based on uNav board.<div>It's completely compatible with R.O.S.</div><div>40x40mm for 2 DC motors speed and torque controls.</div>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/officinerobotiche/uNAV.X\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more about uNav</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1g"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "41",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2969b0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
+          "title1": "ERWHI (mk1) (q1 2017)",
+          "caption1": "- Arietta G25<br>- Microsoft HD3000<br>- STM Nucleo-F401RE<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"erwhi_project.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
             "image": {
               "active": true,
+              "src": "images/responsive.png",
               "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-4472-1400x933.jpg",
-              "link": "",
-              "alt": "uuBridge",
-              "title": "uuBridge"
+              "width": 600
             },
             "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-features1",
               "link": "",
               "size": 0
             }
           },
-          "title": "uuBridge",
-          "text": "<p>uuBridge is a custom motor bridge due original uBridge for uNav as an incompatible voltage (it works over 8V and ERWHI motors are powered at +5V).<br></p><p>The prototype works on DVR8833 by Texa Instruments.</p><p>In the near future I migrate to STM STSPIN240.</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"erwhi_project.html\" data-toolbar=\"-mbrBtnMove\">Repo coming soon</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1h"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": "28",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2969b0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
+          "title2": "ERWHI (mk2) (q2-4 2017)",
+          "caption2": "- Odroid XU4<br>- Intel Realsense R200<br>- uNav motor controller<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media3": {
             "image": {
               "active": true,
+              "src": "images/google-fonts.png",
               "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-4476-1400x933.jpg",
-              "link": "",
-              "alt": "ST IMU node",
-              "title": "ST IMU node"
+              "width": 600
             },
             "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-features1",
               "link": "",
               "size": 0
             }
           },
-          "title": "Encoders",
-          "text": "<p>I shaped a custom encoder kit adapting AMS AS5134 hall effect rotary encoder to Pololu 1000:1 microgearmotors.</p><p>You have ABI output and PWM output. &nbsp;Also programming port is exposed.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"erwhi_project.html\" data-toolbar=\"-mbrBtnMove\">Repo coming soon</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1i"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "28",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2969b0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
+          "title3": "ERWHIxUP (mk2.1) (q1 2018)",
+          "caption3": "- UP squared Pentium<br>- Intel Realsense ZR300<br>- uNav motor controller<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
             "image": {
               "active": true,
+              "src": "images/unlimited-websites.png",
               "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-7283-1400x2100.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
+              "width": 600
             },
             "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-features1",
               "link": "",
               "size": 0
             }
           },
-          "title": "Lidar",
-          "text": "After Maker Faire Rome 2017, I added a RPlidarA1. &nbsp;It allows ERWHI to take a better SLAM.<br><br>Lidar is a present by Alessandro Francescon of Geduino Foundation.",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.geduino.org/site/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GEDUINO FOUNDATION</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1r"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": "32",
-            "paddingTop": "1",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2969b0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
+          "title4": "no codename yet (mk3) (...)",
+          "caption4": "- UP squared Pentium<br>- Intel Realsense D435<br>- AI-core (Movidius)<br>- new motor controller",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media5": {
             "image": {
               "active": true,
+              "src": "images/blocks.png",
               "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-4785-1400x933.jpg",
-              "link": "",
-              "alt": "ST IMU node",
-              "title": "ST IMU node"
+              "width": 600
             },
             "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-features1",
               "link": "",
               "size": 0
             }
           },
-          "title": "IMU node",
-          "text": "<p>It simply use a STM32 Nucleo F303 board and an Invense MPU9250 to calculate robot dynamics.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"erwhi_project.html\" data-toolbar=\"-mbrBtnMove\">Repo coming soon</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1j"
-        },
-        {
-          "_styles": {
-            "SMALL": {
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showText": true,
-            "bgColor": "#2969b0"
-          },
-          "media": {
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
             "image": {
-              "src": "images/slide3.jpg",
+              "active": true,
+              "src": "images/host.png",
               "class": "mbr-figure__img",
-              "width": 1400
+              "width": 600
             },
             "video": {
-              "active": true,
               "class": "mbr-figure__img",
-              "src": "https://youtu.be/wlg1ZTYuEoc",
-              "autoplay": false,
-              "loop": false
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "December 19th 2017 updates video. &nbsp;Autonomous navigation with SLAM.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-1n"
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-2p",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_params": {
             "showMeta": false
           },
-          "title": "Partnerships",
+          "title": "Project Partnerships",
           "meta": "By John Smith posted July 30, 2015",
           "_tags": [
             "Theme"
@@ -4476,14 +4283,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Officine Robotiche",
-          "text": "Officine Robotiche is a no-profit association based in Rome about robotic buildings and competitions.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.officinerobotiche.it\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "title": "UP/AAEON",
+          "text": "UP is company which design powerfull SBCs in a pocket format.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://up-board.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-1c"
+          "_anchor": "msg-box1-2f"
         },
         {
           "_styles": {
@@ -4521,6 +4328,43 @@
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-1a"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Officine Robotiche",
+          "text": "Officine Robotiche is a no-profit association based in Rome about robotic buildings and competitions.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.officinerobotiche.it\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1c"
         },
         {
           "_styles": {
@@ -4688,6 +4532,860 @@
             "bgColor": "#ffffff",
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/dsc-8758-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-4476-2000x1333.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-2r"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1"
+        }
+      ]
+    },
+    "erwhi2.html": {
+      "settings": {
+        "title": "ERWHI",
+        "meta_descr": "ERWHI robotics",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#c1c1c1"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/clean-166x128-69.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "GBr1_logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Giovanni Bruno's Website</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects_index.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"robotics_index.html\">ROBOTICS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"activities_index.html\">ACTIVITIES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_anchor": "menu-1w"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202017-06-27%20at%2016-2000x2157.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/uNOOAU3VIps?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/uNOOAU3VIps",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "title": "ERWHI",
+          "text": "My latest design in mobile robotics.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "H1": {
+              "color": "#eb6b56",
+              "text-align": "center",
+              "font-size": "100px"
+            }
+          },
+          "_anchor": "header1-1x"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "28",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-4789-1400x2100.jpg",
+              "link": "",
+              "alt": "ERWHI",
+              "title": "ERWHI"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "About ERWHI",
+          "text": "<p>ERWHI is an open source small SLAM robot. &nbsp;It integrates some human interaction features and machine learning capabilities.</p><p><br>It works on ROS on an Odroid XU4 and Intel Realsense R200 as vision sensor.<br>Motors are controlled by uNav and uuBridge (a custome uBridge).</p><p><br></p><p>To achieve a perfect dynamics study, a special node was created using STM32-Nucleo and MPU9250.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/gbr1/erwhi\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go to the Repository</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1y"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "28",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-4787-1400x933.jpg",
+              "link": "",
+              "alt": "front view",
+              "title": "front view"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Motors Control",
+          "text": "Motors control is based on uNav board.<div>It's completely compatible with R.O.S.</div><div>40x40mm for 2 DC motors speed and torque controls.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/officinerobotiche/uNAV.X\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more about uNav</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1z"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "41",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-4472-1400x933.jpg",
+              "link": "",
+              "alt": "uuBridge",
+              "title": "uuBridge"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "uuBridge",
+          "text": "<p>uuBridge is a custom motor bridge due original uBridge for uNav as an incompatible voltage (it works over 8V and ERWHI motors are powered at +5V).<br></p><p>The prototype works on DVR8833 by Texa Instruments.</p><p>In the near future I migrate to STM STSPIN240.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"erwhi_project.html\" data-toolbar=\"-mbrBtnMove\">Repo coming soon</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-20"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "28",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-4476-1400x933.jpg",
+              "link": "",
+              "alt": "ST IMU node",
+              "title": "ST IMU node"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Encoders",
+          "text": "<p>I shaped a custom encoder kit adapting AMS AS5134 hall effect rotary encoder to Pololu 1000:1 microgearmotors.</p><p>You have ABI output and PWM output. &nbsp;Also programming port is exposed.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"erwhi_project.html\" data-toolbar=\"-mbrBtnMove\">Repo coming soon</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-21"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "28",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-7283-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Lidar",
+          "text": "After Maker Faire Rome 2017, I added a RPlidarA1. &nbsp;It allows ERWHI to take a better SLAM.<br><br>Lidar is a present by Alessandro Francescon of Geduino Foundation.",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.geduino.org/site/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GEDUINO FOUNDATION</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-22"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "32",
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-4785-1400x933.jpg",
+              "link": "",
+              "alt": "ST IMU node",
+              "title": "ST IMU node"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "IMU node",
+          "text": "<p>It simply use a STM32 Nucleo F303 board and an Invense MPU9250 to calculate robot dynamics.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"erwhi_project.html\" data-toolbar=\"-mbrBtnMove\">Repo coming soon</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-23"
+        },
+        {
+          "_styles": {
+            "SMALL": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showText": true,
+            "bgColor": "#2969b0"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/wlg1ZTYuEoc",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "December 19th 2017 updates video. &nbsp;Autonomous navigation with SLAM.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-24"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Partnerships",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header3-25"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Officine Robotiche",
+          "text": "Officine Robotiche is a no-profit association based in Rome about robotic buildings and competitions.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.officinerobotiche.it\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-26"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Neapolis Innovation",
+          "text": "Neapolis Innovation is an association founded by some factories, e.g. STMicroelectronics, and Universities in Campania (Italy).",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.neapolisinnovation.info/blog/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-27"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "KATODO.com",
+          "text": "KATODO is a friendly eCommerce website. &nbsp;You can find every stuffs you need to build your own robot.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://katodo.com/it/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-28"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SPECIAL THANKS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-29"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Geduino Foundation (aka Gesuino)",
+          "text": "Geduino is a project by Alessandro Francescon.<br>Alessandro donated a broken lidar to be mounted and tested on ERWHI.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.geduino.org/site/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2a"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRISMA Lab",
+          "text": "The team in the PRISMA Lab (Projects of Robotics for Industry and Services, Mechatronics and Automation) operates in the Department of Electrical Engineering and Information Technology of University of Naples Federico II and Consortium CREATE, where since 30 years is committed to research in robotics and automation. ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://prisma.dieti.unina.it/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2b"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
                 "image": "@PROJECT_PATH@/assets/images/dsc-4785-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
@@ -4738,14 +5436,50 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-1m"
+          "_anchor": "slider-2c"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Neapolis Innovation",
+          "text": "Neapolis Innovation is an association founded by some factories, e.g. STMicroelectronics, and Universities in Campania (Italy)",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"erwhi_project.html\" data-toolbar=\"-mbrBtnMove\">back to ERWHI</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2s"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-10",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -4758,7 +5492,252 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Giovanni di Dio Bruno aka GBr1"
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1",
+          "_anchor": "footer1-2d"
+        }
+      ]
+    },
+    "erwhiup.html": {
+      "settings": {
+        "meta_descr": "Erwhi for UP",
+        "title": "ERWHI UP",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#c1c1c1"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/clean-166x128-69.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "GBr1_logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Giovanni Bruno's Website</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects_index.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"robotics_index.html\">ROBOTICS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"activities_index.html\">ACTIVITIES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_anchor": "menu-2h"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-8758-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.2
+          },
+          "title": "Upgrade<br><br><br>",
+          "text": "<p>ARM architecture limits some software. &nbsp;Using an UP squared (Pentium N4200, 8GBDDR4), ROS and other visual stuffs works perfectly.</p><p><br></p><p>This prototype works on a ZR300 Intel Realsense vision module instead R200.</p><p><br></p><p>WiFi is a big upgrade using 5GHz.</p><p><br></p><p>New 3d printed mechanics fit 2 Li-Ion 18650 batteries for a better replacement, recharge and transport.</p><p><br></p><p>This robot is owned by UP/AAEON.</p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Repository</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-2l"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "UP/AAEON",
+          "text": "Learn more about the powerful UP.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://up-board.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2m"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Motors Control",
+          "text": "Motors control is based on uNav board.<br>It's completely compatible with R.O.S.<br>40x40mm for 2 DC motors speed and torque controls.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"erwhi_project.html\" data-toolbar=\"-mbrBtnMove\">back to erwhi series</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2n"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1",
+          "_anchor": "footer1-2i"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "images/bg5.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/vr7G8Oocnh0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/vr7G8Oocnh0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ERWHI UP",
+          "text": "This version is an evolute prototype<br>from ERWHI using UP Squared.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2j",
+          "_styles": {
+            "H1": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          }
         }
       ]
     }
