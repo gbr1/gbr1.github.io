@@ -672,6 +672,12 @@
   color: #efefef;
 }
 
+#header1-2j H1 {
+  text-align: right;
+}
+#header1-2j P {
+  text-align: right;
+}
 #menu-2h .mbr-brand__name {
   font-size: 16px;
 }
@@ -706,10 +712,4 @@
 }
 #msg-box1-2n .mbr-article {
   color: #fff;
-}
-#header1-2j H1 {
-  text-align: right;
-}
-#header1-2j P {
-  text-align: right;
 }

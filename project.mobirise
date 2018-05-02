@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "erwhi_project.html",
+    "currentPage": "erwhiup.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 101,
     "versionPublish": "4.5.4",
@@ -5505,6 +5505,47 @@
       },
       "components": [
         {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "images/bg5.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/vr7G8Oocnh0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/vr7G8Oocnh0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ERWHI UP",
+          "text": "This version is an evolute prototype<br>from ERWHI using UP Squared.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2j",
+          "_styles": {
+            "H1": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-brand__name": {
               "font-size": "16px"
@@ -5697,47 +5738,6 @@
           },
           "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1",
           "_anchor": "footer1-2i"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": false,
-            "bgImage": "images/bg5.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/vr7G8Oocnh0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/vr7G8Oocnh0",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ERWHI UP",
-          "text": "This version is an evolute prototype<br>from ERWHI using UP Squared.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-2j",
-          "_styles": {
-            "H1": {
-              "text-align": "right"
-            },
-            "P": {
-              "text-align": "right"
-            }
-          }
         }
       ]
     }
