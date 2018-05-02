@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "erwhiup.html",
+    "currentPage": "erwhi_project.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 101,
     "versionPublish": "4.5.4",
@@ -4179,7 +4179,7 @@
             }
           },
           "title4": "no codename yet (mk3) (...)",
-          "caption4": "- UP squared Pentium<br>- Intel Realsense D435<br>- AI-core (Movidius)<br>- new motor controller",
+          "caption4": "- UP squared Pentium<br>- new motor controller<br><br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"erwhi_project.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
