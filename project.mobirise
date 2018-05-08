@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "erwhi_project.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 101,
+    "uniqCompNum": 102,
     "versionPublish": "4.5.4",
     "name": "GBr1",
     "theme": {
@@ -4008,7 +4008,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": "28",
             "paddingTop": "1",
@@ -4066,7 +4066,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/gbr1/erwhi\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go to the Repository</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://facebook.com/erwhiproject\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-like mbr-iconfont mbr-iconfont-btn\"></span>Facebook page</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1f"
         },
