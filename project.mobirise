@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "erwhi_project.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 102,
+    "uniqCompNum": 112,
     "versionPublish": "4.5.4",
     "name": "GBr1",
     "theme": {
@@ -171,7 +171,7 @@
     "robotics_index.html": {
       "settings": {
         "title": "Robotics",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -322,7 +322,7 @@
     "linefollower_index.html": {
       "settings": {
         "title": "Line Follower",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -610,7 +610,7 @@
     "mb2.html": {
       "settings": {
         "title": "The Magic Bombo mark 2",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1217,7 +1217,7 @@
     "about.html": {
       "settings": {
         "title": "About",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1587,7 +1587,7 @@
     "mb3.html": {
       "settings": {
         "title": "The Magic MAGIC BOMBO proto evo",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2046,7 +2046,7 @@
     "robotics_old.html": {
       "settings": {
         "title": "Old Projects",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -2326,7 +2326,7 @@
     "contacts.html": {
       "settings": {
         "title": "Contact",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2480,7 +2480,7 @@
     "drummybot.html": {
       "settings": {
         "title": "DrumMyBot",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2673,7 +2673,7 @@
     "projects_index.html": {
       "settings": {
         "title": "Projects",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2910,7 +2910,7 @@
     "alfred_project.html": {
       "settings": {
         "title": "ALFRED Project",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -3721,7 +3721,7 @@
       "settings": {
         "title": "Activities",
         "meta_descr": "",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -3902,7 +3902,7 @@
       "settings": {
         "title": "ERWHI project",
         "meta_descr": "ERWHI robots index",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4118,7 +4118,7 @@
               "size": 0
             }
           },
-          "title1": "ERWHI (mk1) (q1 2017)",
+          "title1": "ERWHI (mk1) (q1 2017)<br><br>",
           "caption1": "- Arietta G25<br>- Microsoft HD3000<br>- STM Nucleo-F401RE<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"erwhi_project.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
@@ -4138,7 +4138,7 @@
               "size": 0
             }
           },
-          "title2": "ERWHI (mk2) (q2-4 2017)",
+          "title2": "ERWHI (mk2) (q2-4 2017)<br><br>",
           "caption2": "- Odroid XU4<br>- Intel Realsense R200<br>- uNav motor controller<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"erwhi2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
@@ -4158,7 +4158,7 @@
               "size": 0
             }
           },
-          "title3": "ERWHIxUP (mk2.1) (q1 2018)",
+          "title3": "ERWHIxUP (mk2.1) (q1 2018)<br><br>",
           "caption3": "- UP squared Pentium<br>- Intel Realsense ZR300<br>- uNav motor controller<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"erwhiup.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
@@ -4178,9 +4178,9 @@
               "size": 0
             }
           },
-          "title4": "no codename yet (mk3) (...)",
-          "caption4": "- UP squared Pentium<br>- new motor controller<br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"erwhi_project.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "title4": "ERWHI Hedgehog (mk3)<br>(q2 2018-now)",
+          "caption4": "- UP squared Pentium<br>- Intel Realsense Depth D435<br>- Ai Core (Movidius Myriad 2)<br>- Sengi motor controller<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"erwhi_hedgehog.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -4241,7 +4241,7 @@
           "_params": {
             "showMeta": false
           },
-          "title": "Project Partnerships",
+          "title": "Project Collaborators",
           "meta": "By John Smith posted July 30, 2015",
           "_tags": [
             "Theme"
@@ -4284,13 +4284,50 @@
             "overlayOpacity": 0.5
           },
           "title": "UP/AAEON",
-          "text": "UP is company which design powerfull SBCs in a pocket format.",
+          "text": "AAEON is company which design powerfull SBCs in a pocket format like famous UP Board.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://up-board.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-2f"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Intel RealSense",
+          "text": "Intel® RealSense™ technology is shaping the future by giving devices and machines the ability to perceive their surroundings.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://realsense.intel.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-33"
         },
         {
           "_styles": {
@@ -4342,45 +4379,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Officine Robotiche",
-          "text": "Officine Robotiche is a no-profit association based in Rome about robotic buildings and competitions.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.officinerobotiche.it\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-1c"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-article": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -4522,6 +4522,80 @@
           "_anchor": "msg-box1-1s"
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Officine Robotiche",
+          "text": "Officine Robotiche is a no-profit association based in Rome about robotic buildings and competitions.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.officinerobotiche.it\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1c"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Guido Ottaviani",
+          "text": "He deals with electronic design and embedded system firmware for Robotics and industrial and civil applications, as well as technical disclosure on the internet.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.crolt.eu/guiott/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2z"
+        },
+        {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
@@ -4588,7 +4662,7 @@
       "settings": {
         "title": "ERWHI",
         "meta_descr": "ERWHI robotics",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -5501,7 +5575,7 @@
       "settings": {
         "meta_descr": "Erwhi for UP",
         "title": "ERWHI UP",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -5738,6 +5812,164 @@
           },
           "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1",
           "_anchor": "footer1-2i"
+        }
+      ]
+    },
+    "erwhi_hedgehog.html": {
+      "settings": {
+        "meta_descr": "Erwhi Hedgehog page.",
+        "title": "ERWHI Hedgehog",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#c1c1c1"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/clean-166x128-69.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "GBr1_logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Giovanni Bruno's Website</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects_index.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"robotics_index.html\">ROBOTICS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"activities_index.html\">ACTIVITIES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_anchor": "menu-2u"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Giovanni di Dio Bruno aka GBr1",
+          "_anchor": "footer1-2v"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2474-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ERWHI Hedgehog",
+          "text": "Erwhi at the edge",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-2w",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Neapolis Innovation",
+          "text": "Neapolis Innovation is an association founded by some factories, e.g. STMicroelectronics, and Universities in Campania (Italy)",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">back to erwhi</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2y"
         }
       ]
     }

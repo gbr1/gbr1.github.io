@@ -503,16 +503,16 @@
 #msg-box1-2f .mbr-article {
   color: #000000;
 }
+#msg-box1-33 .mbr-header .mbr-header__text {
+  color: #000000;
+}
+#msg-box1-33 .mbr-article {
+  color: #000000;
+}
 #msg-box1-1a .mbr-header .mbr-header__text {
   color: #000000;
 }
 #msg-box1-1a .mbr-article {
-  color: #000000;
-}
-#msg-box1-1c .mbr-header .mbr-header__text {
-  color: #000000;
-}
-#msg-box1-1c .mbr-article {
   color: #000000;
 }
 #msg-box1-1b .mbr-header .mbr-header__text {
@@ -540,6 +540,18 @@
   text-align: left;
 }
 #msg-box1-1s .mbr-article {
+  color: #000000;
+}
+#msg-box1-1c .mbr-header .mbr-header__text {
+  color: #000000;
+}
+#msg-box1-1c .mbr-article {
+  color: #000000;
+}
+#msg-box1-2z .mbr-header .mbr-header__text {
+  color: #000000;
+}
+#msg-box1-2z .mbr-article {
   color: #000000;
 }
 
@@ -712,4 +724,29 @@
 }
 #msg-box1-2n .mbr-article {
   color: #fff;
+}
+
+#menu-2u .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-2u .mbr-navbar__hamburger {
+  color: #c1c1c1;
+}
+#menu-2u .mbr-brand__name a {
+  font-family: 'Montserrat', sans-serif;
+}
+#header2-2w P {
+  text-align: right;
+}
+#header2-2w H1 {
+  text-align: right;
+}
+#msg-box1-2y .mbr-header .mbr-header__text {
+  color: #000000;
+}
+#msg-box1-2y .mbr-article {
+  color: #000000;
 }
