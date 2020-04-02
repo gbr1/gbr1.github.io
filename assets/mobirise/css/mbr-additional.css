@@ -2320,6 +2320,19 @@ body {
 .cid-rrTQwasR2H .mbr-section-title {
   color: #ffffff;
 }
+.cid-rV1ac1qi6J {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background: #2053a1;
+}
+.cid-rV1ac1qi6J .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rV1ac1qi6J .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rspSAuLVNs {
   padding-top: 45px;
   padding-bottom: 45px;
